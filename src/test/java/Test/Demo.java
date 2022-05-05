@@ -36,4 +36,8 @@ public class Demo {
 	  public void test5(){
 		  System.out.println("Test is run");
 	  }
+	  @Test
+	  public void test6(){
+		  System.out.println("Test is run");
+	  }
 }
